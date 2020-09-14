@@ -11,5 +11,5 @@ To download ready document you need to hit.
 To see queued documents 
 * GET `/magic-printer/...
 
-To cancel printing
+To cancel printing.
 * ... `/magic-printer/...`
