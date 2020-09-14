@@ -6,7 +6,10 @@ Printing can be ordered by sending correct request.
 * POST `/magic-printer/print` -  is going to queue printing
 
 To download ready document you need to hit.
-* `/magic-printer/...`
+* GET `/magic-printer/...`
 
 To see queued documents 
-* `/magic-printer/...
+* GET `/magic-printer/...
+
+To cancel printing
+* ... `/magic-printer/...`
