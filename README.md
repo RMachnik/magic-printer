@@ -9,7 +9,7 @@ To download ready document you need to hit.
 * GET `/magic-printer/...`
 
 To see queued documents 
-* GET `/magic-printer/...
+* GET `/magic-printer/...`
 
 To cancel printing.
 * ... `/magic-printer/...`
